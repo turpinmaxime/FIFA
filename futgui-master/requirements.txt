@@ -1,0 +1,4 @@
+Pillow
+requests
+git+https://github.com/hunterjm/fut.git#egg=fut
+macholib

@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+dist/
+build/
+fut.log
+!requirements.txt
+.eggs
+.idea
+futgui.egg-info/
